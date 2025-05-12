@@ -27,7 +27,6 @@
 
 ### Telegram боты
 ![aiogram](https://img.shields.io/badge/-aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-(Добавьте свои технологии)
 
 ### Контейнеризация
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
